@@ -2,7 +2,7 @@
 Окна ПВХ в Бресте Askon-Trade
 
 + [Главная страница](https://verespro.github.io/Homework-Windows-Askon-Trade)
-+ [Блог](https://verespro.github.io/Homework-Windows-Askon-Trade/blog)
++ [Блог](https://verespro.github.io/Homework-Windows-Askon-Trade/blog.html)
 + [Акции и скидки](https://verespro.github.io/Homework-Windows-Askon-Trade/discounts)
 + [Двери](https://verespro.github.io/Homework-Windows-Askon-Trade/doors)
 + [Пластиковые окна](https://verespro.github.io/Homework-Windows-Askon-Trade/plastic_window)
